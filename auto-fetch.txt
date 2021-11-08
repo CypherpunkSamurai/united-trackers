@@ -1,0 +1,2 @@
+https://trackerslist.com/all.txt
+https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_best.txt
